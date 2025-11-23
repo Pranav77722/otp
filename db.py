@@ -5,8 +5,8 @@ Stores mobile to email mappings.
 
 # Dummy database: Mobile -> Email
 USERS = {
-    "9309192611": "test@gmail.com",
-    "7028336358": "khairepranav124@gmail.com"
+    "9657329173": "ap8548328@gmail.com",
+    "9699883753": "adi.akolkar12@gmail.com"
 }
 
 def get_email_from_mobile(mobile: str) -> str:
